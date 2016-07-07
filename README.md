@@ -1,5 +1,5 @@
 # Activity #4: Pointers
-by Lanz Harvey M. Jacob
+##by Lanz Harvey M. Jacob
 
 ####Screenshots
 ![](1.PNG)
